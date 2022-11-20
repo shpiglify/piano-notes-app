@@ -1,0 +1,12 @@
+body {
+    font-size: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: font-size 1s;
+}
+
+.lg-txt {
+    font-size: 180px;
+}
